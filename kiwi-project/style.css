@@ -1,0 +1,149 @@
+#redsection{
+    color: red;
+}
+#pic-one{
+    margin-left: 20%;
+    width: 276px;
+    height: 295px;
+}
+#pic-two{
+    width: 276px;
+    height: 295px;
+}
+#pic-three{
+    width: 276px;
+    height: 295px;
+}
+
+#heading-one{
+    color: #885d5d;
+text-align: justify;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: 70px; /* 175% */
+}
+.right-container{
+    font-size: x-large;
+    margin-left:64%;
+    background: #D9D9D9;
+    text-align: center;
+    width: 483px;
+    height: 1350px;
+    flex-shrink: 0;
+
+}
+
+#img-north-island-brown-kiwi {
+    width: 82%;
+    height: 40%;
+}
+
+#p-location{
+color: #2f14b5;
+text-align: center;
+font-family: Abyssinica SIL;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.right-container-center{
+    width:100%;
+    height: 74px;
+    flex-shrink: 0;
+    background-color: #8F9B00;
+    padding-top: 1px;
+    padding-bottom: 3px;
+    color: #ffffff;
+
+}
+.right-container-bottom{
+    text-align: left;
+    font-size: large;
+    padding-top: 1%;
+    margin-left: 5%;
+}
+.right-container-bottom-list{
+    
+    font-size: larger;
+    color: #2f14b5;
+}
+.footer .footer-container-top{
+    background-color: #9B0054;
+    height: 74px;
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    color: white;
+}
+.footer .footer-bottom-container{
+    padding-top: 10%;
+    font-size: x-large;
+}
+
+.bottom-container{
+    padding-right: 10%;
+    color: #000;
+    text-align: center;
+    font-family: 'Leckerli One';
+    font-size: 94px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.squre{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+
+#topic{
+    font-family: Poppins;
+    font: normal;
+    padding-left: 200%;
+}
+
+.paragraph-content{
+    color: #000;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-size: 32px;
+    margin-top: 2%;
+    margin-left: 3%;
+    font-size:large;
+    text-align: left;
+    padding-top: 3%;
+}
+
+.left-container{
+    float: left;
+}
+.squre-blue{
+    margin-top: 15%;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+}
+
+#topic-second{
+    padding-left: 200%;
+}
+
+.paragraph-second-content{
+    color: #000;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 2%;
+    margin-left: 3%;
+    font-size:large;
+    text-align: left;
+    padding-top: 3%;
+}
